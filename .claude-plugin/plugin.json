@@ -1,0 +1,7 @@
+{
+  "name": "prompt-enhancer",
+  "version": "0.1.0",
+  "description": "An Enhance button above the prompt box that rewrites your draft into a stronger prompt, in place, without sending it.",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

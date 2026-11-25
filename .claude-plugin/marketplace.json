@@ -1,0 +1,6 @@
+{
+  "name": "prompt-enhancer",
+  "owner": { "name": "GingerVitas" },
+  "description": "Prompt Enhancer: rewrite your draft prompt in place before you send it.",
+  "plugins": [{ "name": "prompt-enhancer", "source": "./" }]
+}
